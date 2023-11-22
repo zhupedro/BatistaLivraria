@@ -18,3 +18,8 @@ background: #C5F30B;
     flex-shrink: 0;
     background: #DCDCDC;
 }
+.imagens{
+    grid: 25%;
+    min-width: auto;
+    max-width: fit-content;
+}
